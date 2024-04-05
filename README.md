@@ -10,3 +10,7 @@ Error Handling: Robust error handling mechanisms ensure a seamless user experien
 In addition to these features, the upload of essential files further enhances the calculator's functionality and accessibility. From comprehensive documentation to auxiliary resources, these files serve as a cornerstone of the project's success, empowering users with the information and tools needed to leverage the calculator to its fullest potential.
 
 As we continue to innovate and refine our CLI calculator project, we remain committed to delivering a superior user experience and pushing the boundaries of computational efficiency. With each update, we strive to exceed expectations and redefine the standards of excellence in calculator software."
+
+Author:
+
+@aleemakhan
